@@ -3,6 +3,7 @@ Welcome to repository with labs for ML and statistics course. Each lab is design
 
 
 **Lab list:**
+
 LR2 - Linear Regression + Gradient Descent
 
 LR3 - classification
