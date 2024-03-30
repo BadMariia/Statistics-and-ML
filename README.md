@@ -3,6 +3,7 @@ Welcome to repository with labs for ML and statistics course. Each lab is design
 
 
 **Lab list:**
+Task2_ClassificationTwits - классификация русских твитов на позитивные и негативные 
 
 LR2 - Linear Regression + Gradient Descent
 
